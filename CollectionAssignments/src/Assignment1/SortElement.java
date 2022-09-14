@@ -17,7 +17,7 @@ public class SortElement {
 		        
 		        System.out.println("List without Sort="+list);
 		        Collections.sort(list);
-		        System.out.println("Sorted List="+list);
+		        System.out.println("Sorted List="+list);  
 		    }
 
 
